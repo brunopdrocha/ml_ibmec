@@ -1,2 +1,2 @@
 # ml_ibmec
-Este material no qual utilizei na construção do google colab nas aulas de Machine Learning na instuituição IBMEC
+Este material no qual utilizei na construção com o uso do máquina Jupiter (Google Colab) durante o meu aprendizado
